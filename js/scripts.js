@@ -25,7 +25,7 @@ window.onload = function() {
     'Hey there 👋',
     'It\'s Decluttered Tuts',
     'We provide Brilliant stuff to help improve your digital skils',
-    'Make the most out of the materials.<br> You can get them from <a href="https://www.gumroad.unmasp">here!</a>',
+    'Make the most out of the materials.<br> You can get them from <a href="https://www.gumroad.com/unmasp">here!</a>',
     '<a target="_blank" href="https://www.unmasp.tech">Powered by Unmasp</a><br><a target="_blank" href="https://creator.unmasp.tech">Made by Shaheer</a><br><a target="_blank" href="https://ko-fi.com/Q5Q41NYWE">Support with Coffee</a>',
     getCurrentTime(),
     '📚,☕&💖 '
