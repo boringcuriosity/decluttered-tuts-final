@@ -1,0 +1,28 @@
+Uri: https://juliangarnier.com/
+File Name: c:\Downloaded Web Sites\juliangarnier.com\index.htm
+Content Type: text/html
+
+Uri: https://juliangarnier.com/img/favicon.png
+File Name: c:\Downloaded Web Sites\juliangarnier.com\img\favicon.png
+Content Type: image/png
+
+Uri: https://juliangarnier.com/img/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\juliangarnier.com\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://juliangarnier.com/css/styles.css
+File Name: c:\Downloaded Web Sites\juliangarnier.com\css\styles.css
+Content Type: text/css
+
+Uri: https://juliangarnier.com/js/anime.js
+File Name: c:\Downloaded Web Sites\juliangarnier.com\js\anime.js
+Content Type: application/javascript
+
+Uri: https://juliangarnier.com/js/scripts.js
+File Name: c:\Downloaded Web Sites\juliangarnier.com\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://juliangarnier.com/img/corner.svg
+File Name: c:\Downloaded Web Sites\juliangarnier.com\img\corner.svg
+Content Type: image/svg+xml
+
